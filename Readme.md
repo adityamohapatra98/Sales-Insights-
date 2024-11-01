@@ -10,10 +10,9 @@ This is a project I inspired from Codebasics PowerBi Youtube playlist. You can f
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Resources](#resources)
-3. [SQL Codes](#sql-codes)
-4. [Visualizations](#visualizations)
-5. [Presentations](#presentations)
+2. [Approach](#Approach)
+3. [Steps Followed](#Steps-followed)
+
 
 ## Project Overview
 AtliQ Hardware, a company with branches across India, faced a critical challenge. Their sales were declining, and the sales director struggled to gain clear insights into the business performance due to unreliable updates and overwhelming Excel files. This lack of transparency made it difficult for leadership to make data-driven decisions.
