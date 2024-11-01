@@ -17,10 +17,10 @@ This is a project I inspired from Codebasics PowerBi Youtube playlist. You can f
 ## Project Overview
 AtliQ Hardware, a company with branches across India, faced a critical challenge. Their sales were declining, and the sales director struggled to gain clear insights into the business performance due to unreliable updates and overwhelming Excel files. This lack of transparency made it difficult for leadership to make data-driven decisions.
 
-## Approach :
+## Approach 
 To address these issues, the sales director aimed to implement a Power BI dashboard, turning raw data into actionable visual insights. I joined the data team tasked with creating a dynamic, easy-to-understand dashboard that would support timely decision-making.
 
-## Steps Followed :
+## Steps Followed 
 
 - [x] Conducted a high-level analysis using SQL to understand key data trends and issues.
 - [x] Connected SQL datasets to Power BI for seamless integration.
